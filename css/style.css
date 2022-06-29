@@ -1,0 +1,34 @@
+p{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+    border: 5px solid red;
+    width: fit-content;
+    padding: 5px;
+}
+
+a{
+    color:blue;
+}
+
+a:visited{
+    color:purple;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+li{
+    list-style-type: armenian;
+}
+thead{
+    background-color: aqua;
+}
+table{
+    background-color: bisque;
+    border: 1px solid;
+}
+ td{
+    border-bottom: 3px solid white;
+}
